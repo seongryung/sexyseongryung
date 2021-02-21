@@ -1,19 +1,32 @@
 #include <stdio.h>
 #define CRT_SECURE_NO_WARNINGS
+#include <time.h>
+#include <stdlib.h>
+#define size 5
+
 
 void main() {
+
+	srand(time(NULL));
 	double jeojang;
-	double arr[8] = { 1.1, 0.7, 1.3, 0.9, 1.4, 0.8, 0.7, 1.4 };
+	double arr[size];
 	double max = 0;
 
-	for (int a = 0; a < 8; a++) {
-		
+	for (int i = 0; i < size; i++) {
+		arr[i] = rand() % 100 / 10.0;
+		printf("%f ", arr[i]);
+	}
+	printf("\n");
+
+	for (int a = 0; a < size; a++) {
+
+
 		if (a == 0) {
 			jeojang = arr[a] * arr[a + 1];
 			continue;
 		}
-		
-		else if (a == 7) {
+
+		else if (a == size - 1) {
 			jeojang = arr[a] * arr[a - 1];
 			continue;
 		}
@@ -25,6 +38,6 @@ void main() {
 			max = jeojang;
 		}
 	}
-	printf("%d\n", max);
+	printf("%f\n", max);
 
 }
