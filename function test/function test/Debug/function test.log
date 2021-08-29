@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\허성륭\source\repos\function test\function test\test.c(7,46): warning C4020: 'sqrt': 실제 매개 변수가 너무 많습니다.
+  function test.vcxproj -> C:\Users\허성륭\source\repos\function test\Debug\function test.exe

@@ -1,0 +1,9 @@
+ID	Residence	Age	sex	Major
+qwerty	Seoul		21	M	C.S
+sahara	Busan		26	M	B.E
+siera	Jeonju		22	F	Physics
+poi	Andong		22	F	Economy
+kim	Siheung		24	F	M.E
+quai	Jeju		23	M	E.E
+Eigman	Daejeon		20	M	C.E
+Fraze	Wonju		23	F	I.E

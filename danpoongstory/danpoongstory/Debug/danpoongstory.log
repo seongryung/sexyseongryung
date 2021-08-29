@@ -1,0 +1,7 @@
+﻿  hwakryuljojak.c
+C:\Users\허성륭\source\repos\danpoongstory\danpoongstory\hwakryuljojak.c(13,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허성륭\source\repos\danpoongstory\danpoongstory\hwakryuljojak.c(14,6): warning C4101: 'normal' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\danpoongstory\danpoongstory\hwakryuljojak.c(14,28): warning C4101: 'legendary' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\danpoongstory\danpoongstory\hwakryuljojak.c(14,20): warning C4101: 'unique' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\danpoongstory\danpoongstory\hwakryuljojak.c(14,14): warning C4101: 'rare' :참조되지 않은 지역 변수입니다.
+  danpoongstory.vcxproj -> C:\Users\허성륭\source\repos\danpoongstory\Debug\danpoongstory.exe

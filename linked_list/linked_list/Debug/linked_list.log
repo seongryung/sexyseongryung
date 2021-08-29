@@ -1,0 +1,6 @@
+﻿  Linked_list.c
+C:\Users\허성륭\source\repos\linked_list\linked_list\Linked_list.c(160,16): warning C4047: '함수': 'listpointer *'의 간접 참조 수준이 'listpointer'과(와) 다릅니다.
+C:\Users\허성륭\source\repos\linked_list\linked_list\Linked_list.c(160,11): warning C4024: 'insert': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\허성륭\source\repos\linked_list\linked_list\Linked_list.c(136,7): warning C4101: 'record' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\linked_list\linked_list\Linked_list.c(97): warning C4716: 'Delete': 값을 반환해야 합니다.
+  linked_list.vcxproj -> C:\Users\허성륭\source\repos\linked_list\Debug\linked_list.exe

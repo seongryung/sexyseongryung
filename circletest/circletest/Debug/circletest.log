@@ -1,0 +1,14 @@
+﻿  test01.c
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(8,22): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(9,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(10,29): warning C4020: 'sqrt': 실제 매개 변수가 너무 많습니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(7,20): warning C4101: 'Pita' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(18,14): warning C4101: 'cr' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(18,10): warning C4101: 'cy' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(18,23): warning C4101: 'cy1' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(18,28): warning C4101: 'cr1' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(18,6): warning C4101: 'cx' :참조되지 않은 지역 변수입니다.
+C:\Users\허성륭\source\repos\circletest\circletest\test01.c(18,18): warning C4101: 'cx1' :참조되지 않은 지역 변수입니다.
+  circletest.vcxproj -> C:\Users\허성륭\source\repos\circletest\Debug\circletest.exe
